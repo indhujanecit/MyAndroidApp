@@ -11,4 +11,5 @@ This is a Movie Listing Android app using paging,hilt,kotlin,compose .
 - Run on an Android emulator or device.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/c7298e87-cca1-40ea-b215-cb591e149ab9)
+![Screenshot_2](https://github.com/user-attachments/assets/d9f8d6f1-d3bc-4730-b3a6-450c6bca2ba3)
+
